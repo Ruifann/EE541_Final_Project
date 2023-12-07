@@ -53,6 +53,6 @@ Throughout the development of this project, several challenges were encountered:
 The following areas are identified for future improvements:
 
 - **Expand Feature Set**: Incorporating additional features such as user data might enhance the model's performance.
-- **Optimization**: the model is not very ideal and we have to think more about the reason of low accuracy.
+- **Optimization**: the model is not very ideal and we have to think more about the reason for the low accuracy. There were a lot of struggles with the model Architecture. Have to reduce the complexity to fit the data and avoid overfiting which may be the reason caused the low accuracy rate.
 - **Advanced Model Architectures**: Experimenting with more complex neural network architectures, such as recurrent neural networks (RNNs) or Transformers, could be beneficial.
 - **Hyperparameter Optimization**: Systematic tuning of hyperparameters might yield better results.
